@@ -1,7 +1,18 @@
 # Awesome Blockchain Talks
 A curated talk list about Blockchain.
 
-There is a lot of resource about Blockchain, I started with the simplest way by watching talks since last year, I created this "Talkchain" that I watched based on the time talk creating. I'll be keeping update this list, suggestions or good talks that you watched are always appreciated through [CONTRIBUTING](./CONTRIBUTING.md).
+There is a lot of resource about Blockchain, I started with the simplest way by watching talks since last year, I created this online "Talkchain" that I watched based on the time talk creating. I'll be keeping update this list, suggestions or good talks that you watched are always appreciated, see the [CONTRIBUTING](./CONTRIBUTING.md).
+
+## 2019
+
+- [Blockchain Explained](https://www.youtube.com/watch?v=QphJEO9ZX6s) By IBM Cloud [10:22]
+- [What is blockchain and how can it change our society](https://www.youtube.com/watch?v=kvyKyRZJYh0) By Ali Raza Dar [15:03]
+
+## 2017
+
+- [区块链如何运作 - 简单解释](https://www.youtube.com/watch?v=SSo_EIwHSd4) By Simply Explained [5:59]
+- [What is BLOCKCHAIN? The best explanation of blockchain technology](https://www.youtube.com/watch?v=3xGLc-zz9cA) By Lucas Mostazo [06:26]
+- [The Blockchain and Us](https://www.youtube.com/watch?v=2iF73cybTBs) By Manuel Stagars [31:26]
 
 ## 2016
 
@@ -11,3 +22,6 @@ There is a lot of resource about Blockchain, I started with the simplest way by 
 - [Blockchain Demystified](https://www.youtube.com/watch?v=40ikEV6xGg4) By Daniel Gasteiger [11:19]
 - [What Is Blockchain?](https://www.youtube.com/watch?v=6WG7D47tGb0) By World Economic Forum [2:19]
 - [What is Blockchain](https://www.youtube.com/watch?v=93E_GzvpMA0) By Shai Rubin [13:58]
+- [Understand the Blockchain in Two Minutes](https://www.youtube.com/watch?v=r43LhSUUGTQ) By Institute for the Future [2:25]
+- [Innovating with IBM Blockchain](https://www.youtube.com/watch?v=8xBrjf05b-w) By Donna Dillenberger [10:54]
+- [Blockchain Revolution](https://www.youtube.com/watch?v=3PdO7zVqOwc) By Alex Tapscott [56:38]
