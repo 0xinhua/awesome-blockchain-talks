@@ -1,13 +1,17 @@
 # Awesome Blockchain Talks
 A curated talk list about Blockchain.
 
-There is a lot of resource about Blockchain, I started with the simplest way by watching talks since last year, I created this online "Talkchain" that I watched based on the time talk creating. I'll be keeping update this list, suggestions or good talks that you watched are always appreciated, see the [CONTRIBUTING](./CONTRIBUTING.md).
+There is a lot of resource about Blockchain, I started with the simplest way by watching talks since last year, I created this online "Talkchain" that I watched based on time the talk creating. I'll be keeping update this list, suggestions or good talks that you watched are always appreciated, see the [CONTRIBUTING](./CONTRIBUTING.md).
 
 ## 2019
 
 - [Blockchain Explained](https://www.youtube.com/watch?v=QphJEO9ZX6s) By IBM Cloud [10:22]
 - [What is blockchain and how can it change our society](https://www.youtube.com/watch?v=kvyKyRZJYh0) By Ali Raza Dar [15:03]
 - [比特币和区块链啥原理？矿机挖矿咋回事？](https://www.youtube.com/watch?v=g_fSistU3MQ&t=52s) By 李永乐老师 [16:42]
+
+## 2018
+
+- [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10) By Coding Tech [1:54:53]
 
 ## 2017
 
